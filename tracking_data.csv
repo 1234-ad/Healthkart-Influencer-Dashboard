@@ -1,0 +1,4 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+Instagram,SummerFit,1,101,Protein,2025-07-01,20,20000
+YouTube,WellnessBlast,2,102,Vitamins,2025-07-02,15,15000
+Twitter,GritzoPush,3,103,Shakes,2025-07-03,5,5000
